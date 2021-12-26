@@ -1,1 +1,7 @@
 a linux shell implement from CMU CSAPP's shell lab
+
+The signal handler is used to distinguish the different ECF sent by the kernel
+
+Avoid race conditions through sigset_t api
+
+
